@@ -1,6 +1,6 @@
 import "./App.css";
 import React from "react";
-import TopBar from "./Component/TopBar";
+import TopBar from "./Component/Topbar";
 import Background from "./Component/Background";
 import StoreListings from "./Component/StoreListing";
 
